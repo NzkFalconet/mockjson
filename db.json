@@ -1,4 +1,6 @@
+
 {
+ "pages": {
 "Landing_Page_URL": "bed-linen",
 "Hero_Image_URL": "Hero_Image_URL1",
 "Heading": "Heading1",
@@ -9,4 +11,5 @@
 "Hero_Image_URL": "Hero_Image_URL2",
 "Heading": "Heading2",
 "Sub-heading": "Sub-heading2"
+}
 }
